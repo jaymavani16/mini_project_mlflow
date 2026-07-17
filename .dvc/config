@@ -1,2 +1,4 @@
-['remote "temp"']
-    url = ../:/Users/jayma/AppData/Local/Temp
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://awsminiprojectmlflow
